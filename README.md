@@ -35,3 +35,7 @@ edit these two file respectively:`post.jsp` & `auth.jsp`
 conn = DriverManager.getConnection("jdbc:mysql://your_mysql_server/bulentinboard", "bbs_server", "pAsSwOrD");
 ```
 3.Have fun :)
+
+# Update
+
+DAO文件夹中是使用DAO重新实现的,大作业应该有着落了hhh
