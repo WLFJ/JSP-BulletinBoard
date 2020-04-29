@@ -1,0 +1,22 @@
+
+
+p:last-child {
+  margin-bottom: 0;
+}
+
+h1 {
+  font-weight: 300;
+}
+
+.jumbotron .container {
+  max-width: 40rem;
+}
+
+footer {
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+}
+
+footer p {
+  margin-bottom: .25rem;
+}
